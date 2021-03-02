@@ -1,0 +1,9 @@
+#row {
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+    height: 20px;
+}
